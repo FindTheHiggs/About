@@ -12,6 +12,7 @@ This project tackles the challenge in Higgs decays to photons, using dataset [1]
 
 [1] ATLAS Collaboration (2020). ATLAS 13 TeV samples collection Gamma-Gamma, for 2020 Open Data release. [CERN Open Data Portal](https://opendata.cern.ch/record/15006). 
 
+
 The code and information is organised as follows:
 1. [NtupleProcessing](https://github.com/FindTheHiggs/NtupleProcessing): converts Open Data files from CERN ROOT format to .csv format, which can be used as input to machine learning algorithms (or viewed in a text editor). 
 2. [Code](https://github.com/FindTheHiggs/Code): 1st version of solving the challenge. A worked-out jupyter notebook, reading in .csv and performing Higgs search using a BDT. 
