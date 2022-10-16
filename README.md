@@ -6,7 +6,7 @@ The ATLAS Collaboration released collision data to the general public. The curre
 
 This project tackles the challenge in Higgs decays to photons, using machine learning techniques and the dataset [1]. 
 
-[1] ATLAS Collaboration (2020). ATLAS 13 TeV samples collection Gamma-Gamma, for 2020 Open Data release. [https://opendata.cern.ch/record/15006](CERN Open Data Portal). 
+[1] ATLAS Collaboration (2020). ATLAS 13 TeV samples collection Gamma-Gamma, for 2020 Open Data release. [CERN Open Data Portal](https://opendata.cern.ch/record/15006). 
 
 ## Sponsors 
 
